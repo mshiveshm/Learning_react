@@ -16,3 +16,23 @@ Learning react
 - Diagnostic Features
 - Error Handling
 - Tree Shaking - remove unused code 
+
+// Header
+//  - Logo
+//  - Nav Items
+// Body
+//  - Search
+//  - Restaurant Container
+//    - Restaurant Card
+        //  - Image
+        //  - Name , Star Rating, Cuisines ,etc
+// Footer
+//  - Copyright
+//  - Links
+//  - Address
+//  - Contact
+
+TYPES OF EXPORT/IMPORT
+
+2 TYPES-->DEFAULT IMPORT/EXPORT
+       ---> NAMED IMPORT/EXPORT+
